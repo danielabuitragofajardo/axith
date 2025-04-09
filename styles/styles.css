@@ -39,7 +39,7 @@ a:hover{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-image:url(./assets/images/headerBg.png);
+    background-image:url(../assets/images/headerBg.png);
     background-position: center;
     background-size: cover;
     height: 800px;
@@ -502,7 +502,7 @@ h4{
     width: 270px;
     color: #676767;
     padding: 15px 23px;
-    background-image: url(./assets/images/textBuble.png);
+    background-image: url(../assets/images/textBuble.png);
     box-shadow: 0 10px 8px rgba(0, 0, 0, 0.2);
 }
 
@@ -519,7 +519,7 @@ h4{
 
 .NovenaSeccion{
     color: white;
-    background-image: url(./assets/images/bg2.png);
+    background-image: url(../assets/images/bg2.png);
     width: 100%;
     height: 300px;
     display: flex;
